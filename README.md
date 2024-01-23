@@ -15,6 +15,7 @@ For more test data, here a photo drawing website here: https://pixlr.com/tr/edit
   Use this website for new test data, don't forget your photo must be 28*28 pixel.
 
 
+You must a install Octave: https://octave.org/download
 
 
 if you like this subscribe my channel! https://www.youtube.com/@HasanCanBeydili
