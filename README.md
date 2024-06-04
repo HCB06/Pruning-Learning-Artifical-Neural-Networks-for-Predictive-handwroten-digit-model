@@ -1,5 +1,5 @@
-# Artifical-Neural-Networks-for-Predictive-handwroten-digit-model
-Artifical Neural Networks for Predictive handwroten digit model
+# Pruning Learning Artifical-Neural-Networks-for-Predictive-handwroten-digit-model
+Pruning Learning Artifical Neural Networks for Predictive handwroten digit model
 Artifical some spiking and other neural network abilities with I used for this project.
 
 THERE IS NO ERROR FUNCTION AND NO OPTIMIZATION ALGORITHM. I USE DIFFERENT TRAINING TECHNIC.
